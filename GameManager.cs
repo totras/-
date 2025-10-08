@@ -65,4 +65,3 @@ public class GameManager : MonoBehaviour
         isFront = true;//¡A•\Œü‚«‚Å‚·‚æ‚Æ‚¢‚¤î•ñ‚ğ•Û
     }
 }
-//aaaaaaaaaa
